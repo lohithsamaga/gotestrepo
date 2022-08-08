@@ -3,6 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	//Updated
-	fmt.Println("Hello World")
+	fmt.Println("Hello in ex3")
 }
